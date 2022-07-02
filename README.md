@@ -22,6 +22,8 @@
 
 Лекция 5. Разбор практического примера на PyTorch
 
+[Ссылка на задание](https://github.com/iu5git/GUIMC-Deep-Learning/blob/main/notebooks/lab1.ipynb)
+
 Лекция 6. Сверточные нейронные сети
 - Общий вид сверточной сети 
 
