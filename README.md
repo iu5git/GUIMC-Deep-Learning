@@ -20,6 +20,8 @@
 - Градиентный спуск
 - обратное распространение ошибки
 
+[Ссылка](https://github.com/iu5git/GUIMC-Deep-Learning/blob/main/lections/Supervised_learning.pdf) на лекцию 
+
 Лекция 5. Разбор практического примера на PyTorch
 
 [Ссылка на задание](https://github.com/iu5git/GUIMC-Deep-Learning/blob/main/notebooks/lab1.ipynb)
